@@ -1,0 +1,11 @@
+Player1,Player2,Pay
+Blue,Toasty,-0.26
+Blue,C2,1.71
+Blue,Dabes,2.0
+Blue,Alarm,2.0
+Toasty,C2,-0.14
+Toasty,Dabes,-0.13
+Toasty,Alarm,1.33
+C2,Dabes,-1.33
+C2,Alarm,1.73
+Dabes,Alarm,0.83
